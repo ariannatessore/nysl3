@@ -1,0 +1,51 @@
+.container{
+    margin:40px 20px 20px 20px;
+    
+    
+}
+.title{
+
+    height: 400px;
+    background-image:url("../background.jpeg") ; height: 500px;
+    background-size: cover;
+    border-style: solid;
+    border-width: 8px;
+    border-color: blue;
+    margin-bottom: -20px;
+}
+.Rules{
+
+    background-color: blue;
+    margin-top: -1;
+    display: flex;
+    justify-content: center;
+    color:white;
+}
+
+.fotologo{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 134px;
+    right: 80px;
+}
+   
+.navbar{
+    display: inline-block;
+    font-size: 30px;
+    position: relative;
+    bottom: 190px;
+}
+ul {
+    list-style: none;
+}
+table, th, td{
+    border:solid 3px black;
+    border-collapse: collapse;
+
+    
+ }
+ .Textorules{
+ position: relative;
+    bottom: 192px;
+}

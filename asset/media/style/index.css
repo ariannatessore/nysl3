@@ -1,0 +1,141 @@
+.container{
+    margin:40px 20px 20px 20px;
+    
+}
+.title{
+
+    height: 400px;
+    background-image:url("../background.jpeg"); height: 550px;
+    background-size: cover;
+    border-style: solid;
+    border-width: 8px;
+    border-color: blue;
+    margin-bottom: -20px;
+}
+.Upcoming-Events{
+
+    background-color: blue;
+    margin-top: -1;
+    display: flex;
+    justify-content: center;
+    color:white;
+}
+.fotologo{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 134px;
+    right: 80px;
+}
+   
+.navbar{
+    display: inline-block;
+    font-size: 30px;
+    position: relative;
+    bottom: 318px;
+}
+
+    .table, th, td{
+         border:solid 2px black;
+    }
+    .Encabezado {
+        font-size: 22px;
+        background: gray;
+    }
+    .Desarrollo{
+        background: #d3d3d3;
+    }
+    .textohome{
+        display: inline-block;
+        font-size: 21px;
+        position: relative;
+        bottom: 190px;
+        position: relative;
+            left: 41px;
+    }
+    .parrafo1{
+        position: relative;
+        top: -27px;
+        left: 28px;
+    }
+    
+    .mes2{
+        
+    position: relative;
+    bottom: 39px;
+    }
+    .parafo2{
+        position: relative;
+        bottom: 66px;
+        left: 27px;
+    }
+    .mes3{
+        position: relative;
+        bottom: 81px;
+    }
+    .parrafo3{
+         position: relative;
+        bottom: 107px;
+        left: 29px;
+        }
+        ul {
+            list-style: none;
+        }
+        .Tabla{
+            position: relative;
+            top: -635px;
+            border-collapse: collapse;
+            font-size: 20px;
+}
+.Aclaracion{
+    font-size: 22px;
+    position: relative;
+    bottom: 626px;
+    left: 302px;
+}
+
+    .Contacto{
+
+font-size: 20px;
+}
+.AdditionalInformation{
+    font-size: 20px;
+    position: relative;
+    bottom: 588px;
+    left: 119px;
+
+}
+.Aclaracion2{
+    position: relative;
+    bottom: 575px;
+    left: 219px;
+}
+.Phone{
+    position: relative;
+    bottom: 559px;
+    left: 354px;
+}
+.Email{
+    position: relative;
+    bottom: 558px;
+    left: 354px;
+}
+.Location1{
+    position: relative;
+    bottom: 449px;
+    left: 563px;
+}
+.Location2{
+    position: relative;
+    left: 763px;
+    bottom: 654px;
+    
+}
+.Location3{
+    position: relative;
+    bottom: 657px;
+    left: 676px;
+}
+
+
+
